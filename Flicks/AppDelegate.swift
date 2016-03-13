@@ -37,6 +37,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         topRatedViewController.endpoint = "top_rated"
         topRatedViewController.navigationItem.title = "Top Rated"
         topRatedNavigationController.tabBarItem.title = "Top Rated"
+        topRatedNavigationController.navigationBar.backgroundColor = UIColor.yellowColor()
         topRatedNavigationController.tabBarItem.image = UIImage(named: "top_rated")
 
         
