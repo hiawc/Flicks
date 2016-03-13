@@ -37,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-
+I have encountered lots of problem making this app and learnt a lot from it. There are many things that still need to improve in my app. One thing to notice is that I have not implemented my search bar so it can not search anything yet.
 
 ## License
 
